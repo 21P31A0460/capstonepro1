@@ -1,0 +1,256 @@
+.bday {
+  position: relative;
+  display: block;
+}
+img {
+  height: auto;
+}
+.banner1 {
+  position: absolute;
+  top: 28%;
+  color: goldenrod;
+  background-color: lightgoldenrodyellow;
+  border-radius: 15px;
+  width: 400px;
+  padding-left: 80px;
+  font-size: 60px;
+}
+.banner2 {
+  position: absolute;
+  top: 36%;
+  padding-left: 80px;
+  color: black;
+  font-size: 60px;
+}
+div > img {
+  display: block;
+  width: 100%;
+}
+h3 {
+  font-style: italic;
+  font-size: 50px;
+}
+.container {
+  display: flex;
+  justify-content: space-evenly;
+}
+.animators {
+  text-align: center;
+  font-size: 20px;
+}
+.facepainting {
+  text-align: center;
+  font-size: 20px;
+}
+.games {
+  text-align: center;
+  font-size: 20px;
+}
+.quest {
+  text-align: center;
+  font-size: 20px;
+}
+.fontsize1 {
+  font-size: 12px;
+}
+.fontsize2 {
+  font-size: 12px;
+}
+.fontsize3 {
+  font-size: 12px;
+}
+.fontsize4 {
+  font-size: 12px;
+}
+.fontsize5 {
+  font-size: 12px;
+}
+
+#pic1 {
+  width: 100px;
+  height: 100px;
+}
+#pic2 {
+  width: 100px;
+  height: 100px;
+}
+#pic3 {
+  width: 100px;
+  height: 100px;
+}
+#pic4 {
+  width: 100px;
+  height: 100px;
+}
+#pic5 {
+  width: 250px;
+  height: 250px;
+  border-radius: 130px;
+}
+#pic6 {
+  width: 250px;
+  height: 250px;
+  border-radius: 130px;
+}
+#pic7 {
+  width: 250px;
+  height: 250px;
+  border-radius: 130px;
+}
+#pic8 {
+  width: 250px;
+  height: 250px;
+  border-radius: 130px;
+}
+#pic9 {
+  width: 250px;
+  height: 250px;
+  border-radius: 130px;
+}
+#pic10 {
+  width: 100px;
+  height: 100px;
+}
+#pic11 {
+  width: 100px;
+  height: 100px;
+}
+#pic12 {
+  width: 100px;
+  height: 100px;
+}
+#pic13 {
+  width: 100px;
+  height: 100px;
+}
+#instaicon {
+  height: 30px;
+  width: 30px;
+}
+#rightarrow {
+  height: 30px;
+  width: 30px;
+}
+
+.Ourteam {
+  background-color: lightyellow;
+}
+.ourgallery {
+  background-color: white;
+}
+.nicolestone {
+  background-color: white;
+  color: gold;
+}
+#nicolestone {
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+}
+.mikeperry {
+  background-color: white;
+  color: gold;
+}
+#mikeperry {
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+}
+.natashaivanova {
+  background-color: white;
+  color: gold;
+}
+#natashaivanova {
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+}
+.stevehudson {
+  background-color: white;
+  color: gold;
+}
+#stevehudson {
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+}
+.marylarson {
+  background-color: white;
+  color: gold;
+}
+#marylarson {
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+}
+.theory {
+  background-color: white;
+  white-space: nowrap;
+}
+
+.companyfounder {
+  text-align: center;
+  font-style: italic;
+  color: black;
+}
+.image {
+  width: 400px;
+  height: 350px;
+}
+.viewmore {
+  display: inline;
+  color: black;
+  background-color: goldenrod;
+  padding: 15px;
+  border-radius: 10px;
+}
+#callme {
+  background-color: goldenrod;
+  padding: 30px;
+}
+.callme {
+  text-align: center;
+  font-style: italic;
+  font-size: 30px;
+}
+.callme2 {
+  display: inline;
+  background-color: white;
+  padding: 12px;
+  text-align: center;
+  border-radius: 10px;
+}
+.whatparentsay {
+  background-color: lightyellow;
+}
+.profile {
+  width: 200px;
+  height: 200px;
+  border-radius: 130px;
+}
+.stellalarson {
+  background-color: white;
+}
+.profile2 {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+}
+.profile3 {
+  color: grey;
+}
+hr {
+  color: orange;
+}
+.profile4 {
+  text-align: center;
+  color: grey;
+}
+.end {
+  text-align: center;
+  background-color: grey;
+  padding: 30px;
+}
+#end {
+  color: white;
+}
